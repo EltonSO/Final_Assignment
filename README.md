@@ -2,4 +2,8 @@
 Repo created for my Final Assignment Instructions: Create and Share Your Jupyter Notebook
 
 ## Course: Tools for Data Science | IBM
-### Coursera
+##### Coursera
+
+- Status: completed -> Grade received: 100%
+- Language -> Python
+- Tools: Jupyter notebook (Anaconda-Navigator)
